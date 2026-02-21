@@ -1,3 +1,4 @@
+- Check out my personal website to know more about me! nishagoswami.com
 - 👋 Hi, I’m Nisha
 - 👀 I’m a Computer Science student passionate about Artificial Intelligence and Machine Learning.
 - 🌱 I like exploring new technologies and applying them to solve real-world problems.
