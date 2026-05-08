@@ -3,7 +3,7 @@
   <b>Computer Science student | AI & ML Enthusiast</b>
 </p>
 <p align="center">
-  <a href="https://nishagoswami.com">Nisha's portfolio</a>
+  <a href="https://nishagoswami.com">Portfolio website</a>
 </p>
 
 <p align="center">
