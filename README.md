@@ -3,7 +3,7 @@
   <b>Computer Science student | AI & ML Enthusiast</b>
 </p>
 <p align="center">
-  <a href="https://nishagoswami.com">Website</a>
+  <a href="https://nishagoswami.com">Visit Nisha Goswami's website</a>
 </p>
 
 <p align="center">
@@ -44,8 +44,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishagoswamii&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
-<!---
-nishagoswamii/nishagoswamii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
