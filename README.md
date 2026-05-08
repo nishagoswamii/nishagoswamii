@@ -42,8 +42,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishagoswamii&amp;show_icons=true&amp;hide_title=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="Nisha Goswami's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishagoswamii&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nisha Goswami's GitHub statistics" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishagoswamii&amp;theme=tokyonight&amp;hide_border=true" alt="Nisha Goswami's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=nishagoswamii&theme=tokyonight&hide_border=true" alt="Nisha Goswami's GitHub contribution streak" />
 </p>
