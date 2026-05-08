@@ -20,24 +20,9 @@
 
 ---
 
-### 🧰 Tech Stack
-| Domain | Tools |
-| --- | --- |
-| Programming Languages | Python, C++ |
-| Machine Learning | Scikit-learn, TensorFlow, Keras |
-| Data Science | Pandas, NumPy, Matplotlib, Seaborn |
-| Web Development | HTML, CSS, JavaScript |
-
----
-
-### 🚀 Highlights
-- Built projects that combine ML with practical applications.
-- Interested in responsible AI and scalable data solutions.
-
----
-
 ### 📫 Let’s Connect
 - Website: **[nishagoswami.com](https://nishagoswami.com)**
+- Email: nnishagoswamii@gmail.com
 
 ---
 
