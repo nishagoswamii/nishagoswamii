@@ -3,8 +3,7 @@
   <b>Computer Science student | AI & ML Enthusiast</b>
 </p>
 <p align="center">
-  <a href="https://nishagoswami.com">Website</a> •
-  <a href="https://www.linkedin.com">LinkedIn</a>
+  <a href="https://nishagoswami.com">Website</a>
 </p>
 
 <p align="center">
@@ -39,7 +38,7 @@
 
 ### 📫 Let’s Connect
 - Website: **[nishagoswami.com](https://nishagoswami.com)**
-- LinkedIn: **[linkedin.com](https://www.linkedin.com)**
+- LinkedIn: **Add your profile link here**
 
 ---
 
