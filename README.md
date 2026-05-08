@@ -38,7 +38,6 @@
 
 ### 📫 Let’s Connect
 - Website: **[nishagoswami.com](https://nishagoswami.com)**
-- LinkedIn: **Add your profile link here**
 
 ---
 
