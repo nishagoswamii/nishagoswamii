@@ -14,9 +14,8 @@
 ---
 
 ### ✨ About Me
-- 👀 Passionate about Artificial Intelligence, Machine Learning, and data-driven problem solving.
-- 🌱 Exploring new technologies and applying them to real-world challenges.
-- 🤝 Open to collaborations and impactful projects.
+- I am a curious engineer.
+- I love to explore new technologies and implement them to solve real world problems.
 
 ---
 
