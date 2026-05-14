@@ -8,14 +8,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=for-the-badge" alt="Focus AI & ML" />
-  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-00BFA6?style=for-the-badge" alt="Learning Deep Learning" />
+  <img src="https://img.shields.io/badge/Focus-Building%20-00BFA6?style=for-the-badge" alt="Focus Building" />
 </p>
 
 ---
 
 ### ✨ About Me
-- I am a curious engineer.
-- I love to explore new technologies and implement them to solve real world problems.
+- I am a curious engineer!
+- I love to explore new technologies and implement them to solve real world problems!
 
 ---
 
